@@ -1,4 +1,5 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
+# Sample ASP.NET Core application for Azure Pipelines docs 
+[![Build Status](https://dev.azure.com/ejesalva840/Pipeline%20Test/_apis/build/status/Ejesalva840.Pipelines-Practice?branchName=main)](https://dev.azure.com/ejesalva840/Pipeline%20Test/_build/latest?definitionId=1&branchName=main)
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
